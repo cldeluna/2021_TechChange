@@ -1,26 +1,29 @@
 
 
-
 # Technical Change
 
-![original](images/2021-08-22_10-04-45.jpg)
+![inline](images/2021-08-22_10-04-45.jpg)
 
 ---
+[.text: #feffff]
+[.header: #feffff]
 
 # The only constant is change
 
 All change is disruptive, there will always be the leaders,  the followers,  and the nay sayers.
-If you don't agree, support your argument.
+If you don't agree, support your argument with facts & data.
 
-![original](ThomasBrosGuides.jpg)
+![original](images/ThomasBrosGuides.jpg)
 
 ^ Speaker Note
 You've heard the old adage the only constant is change..
 
 ---
 
-# The Human Component
-Moffett Field
+# The Human Component & 
+##Adoption
+
+*Moffett Field*
 
 
 ![left, 50%, original](images/Figters.jpeg)
@@ -37,7 +40,8 @@ Often that is the most challenging.
 - JPL 
 
 ---
-
+[.text: #feffff]
+[.header: #feffff]
 # Immediacy
 
 ![original](images/photography-darkrooms-2.jpeg)
@@ -53,8 +57,10 @@ Sometimes immediacy results in a tradeoff  more important than quality
 
 
 ---
+[.text: #feffff]
+[.header: #feffff]
 
-## Change does not always take the first time
+## Change does not always take hold the first time
 
 ![original](images/bombe.jpeg)
 
@@ -62,34 +68,44 @@ Sometimes immediacy results in a tradeoff  more important than quality
 
 ---
 
-## Not only disruptive but cyclical
+## Change is not only disruptive but cyclical
 
 ![right, 75%, original](images/Evolution-of-Various-Computing-Models.png)
 
-The Pendulum
+The Change Pendulum
 - Mainframes >  PCs > Cloud > Table (college freshman talked into tablet rather than a laptop)
 Centralized/distributed
 - LateX Word Markdown
 
 
 ---
-
 # Managing Change & Adoption
-In your career this will be a challenge both as an individual and very likely in your chosen field.
+
+Throughout your career you will likely be both the changer and the changee.
+
+In my experience the most important questions to ask are:
+
+- What problem am I trying to solve? 
+- Which forces are in play? 
+- When is the time to change?
 
 ---
 
-# Tools
+# Tools#
 ![left, 75%, original](images/history-of-the-pen.jpeg)
 
 --- 
 
 # The bigger picture
-- These are tools and they can't substitute excellence in your disciple...they can help tremendously
-- Be open to technical change
-- Up to you to use them to make your life easier or not
 
-Be open to it, see if it makes your job easier,  is it its time? 
+- Tools can help achieve excellence in your disciple 
+- Be open to technical change 
+- Cultivate the skills to manage change
+
+
+
+^ Speaker Note
+Looking at a network engineer in 2021.
 
 ---
 # Discussion
